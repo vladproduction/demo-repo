@@ -1,0 +1,2 @@
+Text of line1
+Text of line2
